@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Bluetooth_Switch	Bluetooth_init.c	/^int Bluetooth_Switch(int arg)$/;"	f
+Check_Bluetooth_device	Bluetooth_init.c	/^int  Check_Bluetooth_device(int times)$/;"	f
+Check_Config_Mode	Bluetooth_init.c	/^int Check_Config_Mode()$/;"	f
+Check_and_Copy_USB_Node	USB_mode.c	/^int Check_and_Copy_USB_Node(char *usb_node)$/;"	f
+Copy_Weight_data_of_Bluetooth_node	Bluetooth_Mode.c	/^int Copy_Weight_data_of_Bluetooth_node(char *data)$/;"	f
+Copy_Weight_data_of_Bluetooth_node	Example.c	/^int Copy_Weight_data_of_Bluetooth_node(char *data)$/;"	f
+ERROR	bkp.c	11;"	d	file:
+FAILURE	bkp.c	10;"	d	file:
+Get_Weight_data_of_Bluetooth	Bluetooth_Mode.c	/^int  Get_Weight_data_of_Bluetooth(char *client_btaddr,char *passkey,char *data) \/\/ bluetooth User name, Password Key$/;"	f
+Get_Weight_data_of_Serial_node	Serial_Mode.c	/^int Get_Weight_data_of_Serial_node(char *data)$/;"	f
+Get_Weight_data_of_USB_node	USB_mode.c	/^int Get_Weight_data_of_USB_node(char *data)$/;"	f
+Pair	Bluetooth_Mode.c	/^int Pair(char *Passkey, char *macid)$/;"	f
+Pair	Example.c	/^inGt Pair(char *Passkey, char *macid)$/;"	f
+SUCCESS	bkp.c	9;"	d	file:
+Serial_init	main.c	/^int Serial_init()$/;"	f
+USB_init	USB_mode.c	/^int USB_init()$/;"	f
+bt_connect	Bluetooth_Mode.c	/^void bt_connect(char *bt_id)$/;"	f
+bt_connect	bkp.c	/^int bt_connect(char *bt_id)$/;"	f
+bt_node_chk	bkp.c	/^int bt_node_chk()$/;"	f
+bt_paring	Example.c	/^int bt_paring(char *Passkey, char *passkey)$/;"	f
+bt_paring	bkp.c	/^int bt_paring(char *client_btaddr, char *passkey)$/;"	f
+bt_pwr_on	bkp.c	/^int bt_pwr_on()$/;"	f
+bt_pwroff	Bluetooth_Mode.c	/^int bt_pwroff()$/;"	f
+bt_pwroff	bkp.c	/^int bt_pwroff()$/;"	f
+bt_scan	bkp.c	/^int bt_scan(char *bt_id)$/;"	f
+copy_weight_data	read_Ws_data.c	/^int copy_weight_data(char *device_file,int baudrate,char *data)$/;"	f
+get_bluetooth_macid	Bluetooth_Mode.c	/^int get_bluetooth_macid(char *client_btaddr, char *macid)$/;"	f
+main	example.c	/^int main()$/;"	f
+main	main.c	/^int main()$/;"	f
+parse_and_copy_format_data	example.c	/^int parse_and_copy_format_data(char *inputdata,char *outputdata)$/;"	f
+parse_and_copy_format_data	read_Ws_data.c	/^int parse_and_copy_format_data(char *inputdata,char *outputdata)$/;"	f
+usb_device_presence	Bluetooth_init.c	/^int usb_device_presence (char *vendor_id, char *product_id)$/;"	f
+usb_node_check	usb_check.c	/^int usb_node_check(char *usb_node)$/;"	f
