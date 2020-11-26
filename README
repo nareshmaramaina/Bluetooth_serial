@@ -15,6 +15,15 @@ Additionally, Implemented
 		Check_Config_Mode(); To Check Support Modes POS device,  
 		void bt_pwroff();  In Above Bluetooth Mode, we are not poweroff the bluetooth. If you want to intensionally poweroff the module, you can use this api.
 
+
+
+
+
+
+
+
+
+
 ...............................................................................................................................
 Breif information about returns of APIs and Argument of Function requirement. 
 ...............................................................................................................................
